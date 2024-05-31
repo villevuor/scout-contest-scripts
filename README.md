@@ -1,4 +1,4 @@
-Collection of Finnish scout competition result calculation scripts for Google Sheets
+Collection of Finnish scout competition result calculation scripts for Google Sheets. Used in Finnish winter championship contest Ukko 2018.
 
 
 ### Development
