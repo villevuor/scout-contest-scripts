@@ -1,5 +1,4 @@
-# glowing-guacamole
-Finnish scout competition result calculation scripts for Google Sheets
+Collection of Finnish scout competition result calculation scripts for Google Sheets
 
 
 ### Development
